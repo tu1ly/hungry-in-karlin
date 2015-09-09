@@ -1,0 +1,44 @@
+# Template
+#
+# -   name:
+#     url:
+#     lunch_url:
+
+-   name: Garage
+    url: http://www.poutine.cz/
+
+-   name: Karlínská Pivnice
+    url: http://www.pivnicekarlin.cz/
+
+-   name: Indian by Nature
+    url: http://www.ibn-restaurant.cz/
+
+-   name: Modrý Beránek
+    url: http://www.modryberanek.cz/
+
+-   name: Peter's Burger Pub
+    url: http://burgerpub.cz/
+
+-   name: Olive
+    url: http://www.olivefood.cz/olive-krizikova/2/
+
+-   name: Meze
+    url: http://www.mezerestaurant.cz/
+
+-   name: Red Hot Chilli
+    url: https://www.facebook.com/pages/RedHotChilli-Vietnamske-Bistro/117318515028167
+
+-   name: Lokál Hamburk
+    url: http://lokal-hamburk.ambi.cz/cz/
+
+-   name: Polévkárna
+    url: https://www.facebook.com/pages/Pol%C3%A9vk%C3%A1rna/109006169140095
+
+-   name: Bistro Krystal
+    url: http://www.krystal-bistro.cz/
+
+-   name: Cafe Frida
+    url: http://www.cafefrida.cz/
+
+-   name: Dhaba Beas
+    url: http://www.beas-dhaba.cz/cz
