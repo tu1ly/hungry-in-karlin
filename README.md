@@ -28,7 +28,7 @@ Just run the `decide.py` script:
 (venv)$ python decide.py
 ```
 
-The script selects a place where to eat for you. It uses very complicated algorithm, artificial intelligence and various heuristics to guess what is the option for you at the moment.
+The script selects a place where to eat for you. It uses very complicated algorithm, artificial intelligence and various heuristics to guess what is the best option for you at the moment.
 
 ## Planned Scenarios and Features
 
